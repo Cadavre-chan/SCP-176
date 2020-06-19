@@ -1,0 +1,21 @@
+{
+    "name": "scp-176",
+    "displayName": "SCP-176",
+    "description": "A statue of unknown origin that likes snapping necks",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "SCP-176",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SCP-176-color-theme.json"
+            }
+        ]
+    }
+}
